@@ -1,0 +1,26 @@
+.nftBrowser
+  margin: 15px auto 0 auto
+
+  display: grid
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr
+  grid-row-gap: 20px
+
+  width: 90%
+  max-width: 1500px
+
+/* Media requests */
+@media screen and (max-width: 1220px)
+  .nftBrowser
+    grid-template-columns: 1fr 1fr 1fr 1fr
+
+@media screen and (max-width: 1000px)
+  .nftBrowser
+    grid-template-columns: 1fr 1fr 1fr
+
+@media screen and (max-width: 750px)
+  .nftBrowser
+    grid-template-columns: 1fr 1fr
+
+@media screen and (max-width: 550px)
+  .nftBrowser
+    grid-template-columns: 1fr

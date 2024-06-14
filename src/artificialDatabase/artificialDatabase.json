@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "owner": "archway1rg7enjxkxmqdvrmapzcya7gtmge3lm552387lu",
+      "name": "Alexander Sergeevich",
+      "type": "text",
+      "href": "",
+      "content": "A learned cat whiles away the hours By walking slowly round and round. To right he walks, and sings a ditty; To left he walks, and tells a tale…"
+    },
+    {
+      "id": 1,
+      "owner": "archway1rg7enjxkxmqdvrmapzcya7gtmge3lm552387lu",
+      "name": "Johann Wolfgang von Goethe",
+      "type": "text",
+      "href": "",
+      "content": "Tis written: “In the beginning was the Word!” Here now I'm balked! Who'll put me in accord? It is impossible, the Word so high to prize, I must translate it otherwise If I am rightly by the Spirit taught. ‘Tis written: In the beginning was the Thought! Consider well that line, the first you see, That your pen may not write too hastily! Is it then Thought that works, creative, hour by hour? Thus should it stand: In the beginning was the Power! Yet even while I write this word, I falter, For something warns me, this too I shall alter. The Spirit's helping me! I see now what I need And write assured: In the beginning was the Deed!"
+    },
+    {
+      "id": 2,
+      "owner": "archway1rg7enjxkxmqdvrmapzcya7gtmge3lm552387lu",
+      "name": "Bad cat",
+      "type": "img",
+      "href": "",
+      "content": "/artificialImages/cat.png"
+    },
+    {
+      "id": 3,
+      "owner": "archway1rg7enjxkxmqdvrmapzcya7gtmge3lm552387lu",
+      "name": "My galaxy...",
+      "type": "img",
+      "href": "",
+      "content": "/artificialImages/galaxy.png"
+    },
+    {
+      "id": 4,
+      "owner": "archway1rg7enjxkxmqdvrmapzcya7gtmge3lm552387lu",
+      "name": "Monkey angel",
+      "type": "img",
+      "href": "",
+      "content": "/artificialImages/monkey.jpg"
+    },
+    {
+      "id": 5,
+      "owner": "archway1rg7enjxkxmqdvrmapzcya7gtmge3lm552387lu",
+      "name": "Just my good art...",
+      "type": "img",
+      "href": "",
+      "content": "/artificialImages/art.png"
+    },
+    {
+      "id": 6,
+      "owner": "archway1rg7enjxkxmqdvrmapzcya7gtmge3lm552387lu",
+      "name": "Cowboy monkey",
+      "type": "img",
+      "href": "",
+      "content": "/artificialImages/monkey1.png"
+    },
+    {
+      "id": 7,
+      "owner": "archway1rg7enjxkxmqdvrmapzcya7gtmge3lm552387lu",
+      "name": "Game to squid",
+      "type": "img",
+      "href": "",
+      "content": "/artificialImages/pawn.png"
+    },
+    {
+      "id": 8,
+      "owner": "archway1rg7enjxkxmqdvrmapzcya7gtmge3lm552387lu",
+      "name": "Monkey soldier",
+      "type": "img",
+      "href": "",
+      "content": "/artificialImages/monkey2.png"
+    },
+    {
+      "id": 9,
+      "owner": "archway1rg7enjxkxmqdvrmapzcya7gtmge3lm552387lu",
+      "name": "Windows background for PC",
+      "type": "img",
+      "href": "",
+      "content": "/artificialImages/windows-background-image.jpg"
+    },
+    {
+      "id": 10,
+      "owner": "archway1rg7enjxkxmqdvrmapzcya7gtmge3lm552387lu",
+      "name": "Multicolored owl",
+      "type": "img",
+      "href": "",
+      "content": "/artificialImages/owl.png"
+    },
+    {
+      "id": 11,
+      "owner": "archway1rg7enjxkxmqdvrmapzcya7gtmge3lm552387lu",
+      "name": "Monkey from Blender",
+      "type": "3d",
+      "href": "",
+      "content": "/artificialImages/model/chick.glb"
+    },
+    {
+      "id": 12,
+      "owner": "archway1rg7enjxkxmqdvrmapzcya7gtmge3lm552387lu",
+      "name": "Chick",
+      "type": "3d",
+      "href": "",
+      "content": "/artificialImages/model/chick.glb"
+    }
+  ]
+}

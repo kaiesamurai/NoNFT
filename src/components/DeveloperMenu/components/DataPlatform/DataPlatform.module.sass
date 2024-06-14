@@ -1,0 +1,80 @@
+@mixin mode-button
+  padding: 6px 12px
+  display: flex
+  justify-content: center
+  align-items: center
+  font:
+    family: monospace;
+    size: 20px;
+    style: normal;
+    weight: 700;  
+  border: 0px
+  cursor: pointer
+
+.title
+  padding: 0
+  margin: 0
+  text-transform: uppercase;
+  font:
+    family: monospace
+    style: normal
+    weight: 700
+    size: 14px
+  color: #5C5C5C
+
+.currentPlatform
+  background-color: #27272700
+  border: 0
+  cursor: pointer
+  display: flex
+  justify-content: center
+  align-items: center
+  .name
+    @include mode-button
+    padding-right: 4px
+    margin-top: 5px
+    color: #999999
+  .arrow
+    width: 10px
+    height: 10px
+    background-color: #999999
+    &.close
+      clip-path: polygon(50% 90%, 0% 50%, 12% 36%, 50% 68%, 88% 36%, 100% 50%)
+    &.open
+      clip-path: polygon(50% 30%, 100% 70%, 88% 84%, 50% 52%, 12% 84%, 0% 70%)
+  &:hover
+    .name
+      color: #96E0B8
+    .arrow
+      background-color: #96E0B8
+  &:active
+    .name
+      color: #81c09e
+    .arrow
+      background-color: #81c09e
+
+.panel
+  border: 0px
+  outline: none;
+
+  display: flex
+  flex-direction: column
+  justify-content: center
+  align-items: center
+
+  text-align: center
+
+  overflow: hidden
+  transition: height 0.5s
+
+  & .platform
+    @include mode-button
+    color: #999999
+    background-color: #32323200
+    font-size: 18px
+    transition: font-size 0.3s
+    &:hover
+      font-size: 20px
+      color: #96E0B8
+    &:active
+      color: #64E49F
